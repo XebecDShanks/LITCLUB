@@ -1,0 +1,141 @@
+.b {
+    position: absolute;
+    top: 2005px;
+    left: calc(50% - 70px);
+    font-size: 78.86px;
+}
+.b1 {
+    position: absolute;
+    top: 1048px;
+    left: 481px;
+    font-size: 78.86px;
+}
+.home {
+    position: relative;
+    font-weight: 600;
+    color: #3bbe77;
+}
+.about {
+    position: relative;
+    font-weight: 600;
+}
+.home-parent {
+    position: absolute;
+    top: 102px;
+    left: calc(50% - 407.5px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 71px;
+}
+.bulk-1-cert-lit-2024-1 {
+    position: absolute;
+    top: 37px;
+    left: calc(100% - 250px);
+    width: 216.3px;
+    height: 84px;
+    object-fit: cover;
+}
+.icon {
+    position: absolute;
+    top: 45px;
+    left: -18px;
+    width: 1273px;
+    height: 443px;
+    object-fit: cover;
+}
+.image {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(217, 217, 217, 0.15);
+    width: 1305px;
+    height: 533px;
+}
+.image-container-child {
+    position: absolute;
+    top: 206px;
+    left: 592px;
+    width: 120px;
+    height: 120px;
+}
+.image-container {
+    position: absolute;
+    top: 209px;
+    left: calc(50% - 653px);
+    width: 1305px;
+    height: 533px;
+    overflow: hidden;
+}
+.icon1 {
+    position: absolute;
+    top: 53px;
+    left: 35px;
+    width: 240px;
+    height: 83.5px;
+    object-fit: cover;
+}
+.desktop-1-child {
+    position: absolute;
+    top: 887px;
+    left: calc(50% - 130px);
+    box-shadow: 4px 8px 0px -4px rgba(0, 0, 0, 0.25) inset;
+    border-radius: 52px;
+    background-color: #0ab3f0;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    width: 260px;
+    height: 59px;
+}
+.communicate-compete {
+    position: absolute;
+    top: 784px;
+    left: calc(50% - 313px);
+    display: inline-block;
+    font-family: 'Google Sans';
+    white-space: pre-wrap;
+    width: 627px;
+}
+.th-november-2024 {
+    position: absolute;
+    top: 835px;
+    left: calc(50% - 313px);
+    display: inline-block;
+    font-family: 'Google Sans';
+    text-align: center;
+    width: 627px;
+}
+.register-now1 {
+    position: absolute;
+    top: 897px;
+    left: calc(50% - 120px);
+    display: inline-block;
+    font-family: 'Google Sans';
+    width: 238px;
+    height: 40px;
+}
+
+
+.button-icon {
+    width: 100%;
+    position: relative;
+    border-radius: 120px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 120px;
+}
+  
+  
+.desktop-1 {
+    width: 100%;
+    position:absolute ;
+    background-color: #151515;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 31.71px;
+    color: #fff;
+    font-family: 'Clash Display';
+}
+
