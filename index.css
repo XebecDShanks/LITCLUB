@@ -1,3 +1,8 @@
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
 .b {
     position: absolute;
     top: 2005px;
@@ -11,13 +16,17 @@
     font-size: 78.86px;
 }
 .home {
+    
     position: relative;
     font-weight: 600;
     color: #3bbe77;
+    
 }
 .about {
     position: relative;
     font-weight: 600;
+    color: #fff;
+    
 }
 .home-parent {
     position: absolute;
@@ -28,6 +37,7 @@
     align-items: center;
     justify-content: flex-start;
     gap: 71px;
+    
 }
 .bulk-1-cert-lit-2024-1 {
     position: absolute;
@@ -114,6 +124,7 @@
     font-family: 'Google Sans';
     width: 238px;
     height: 40px;
+    text-decoration: none;
 }
 
 
